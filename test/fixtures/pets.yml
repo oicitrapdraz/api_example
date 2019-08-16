@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyString
+  animal_species: MyString
+  age: 1
+
+two:
+  user: two
+  name: MyString
+  animal_species: MyString
+  age: 1
